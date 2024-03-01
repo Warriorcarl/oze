@@ -1,6 +1,6 @@
 {
-  "name": "oze",
-  "version": "0.0.2",
+  "name": "ozembut",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Warriorcarl/oze.git"
+    "url": "git+[https://github.com/Warriorcarl/oze.git]}"
   },
 
   "author": "",
