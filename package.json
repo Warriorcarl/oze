@@ -1,17 +1,27 @@
 {
-  "name": "oze",
-  "version": "0.0.1",
-  "description": "",
+  "name": "ozembut",
+  "version": "0.0.4",
+  "description": "oze mbut",
   "main": "index.js",
   "scripts": {
     "test": "hardhat test"
   },
+  "keywords": [
+    "oze",
+    "mbut",
+    "zembut",
+    "zem",
+    "but",
+    "teazeambut",
+    "zembutestnet",
+    "solidity"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Warriorcarl/oze.git"
   },
 
-  "author": "",
+  "author": "warriorcarl",
   "license": "MIT",
   "devDependencies": {
     "@openzeppelin/contracts": "^5.0.0",
